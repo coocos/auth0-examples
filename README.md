@@ -1,7 +1,8 @@
 # Auth0 examples
 
-Examples demonstrating how to use Auth0 for authentication and user profiles.
+Examples demonstrating how to use Auth0 for authentication.
 
 ## Examples
 
-- [using Auth0 authentication a server-side fastify app](./web-app/)
+- [displaying user profile details via Auth0 using Fastify](./web-app/)
+- [securing an API using 
