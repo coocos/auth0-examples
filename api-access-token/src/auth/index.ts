@@ -1,0 +1,1 @@
+export { scopePlugin } from "./plugin";
