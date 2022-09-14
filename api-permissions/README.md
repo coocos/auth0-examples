@@ -1,4 +1,4 @@
-### Auth0 example using Fastify
+## Auth0 permissions example using Fastify
 
 This application demonstrates using Auth0 to secure access to a simple API built with Fastify. Using the API requires a valid access token and different endpoints require different scopes / permissions defined in Auth0, e.g. reading items requires the scope `read:items` and adding items requires the scope `add:items`.
 

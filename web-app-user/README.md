@@ -1,4 +1,4 @@
-## Auth0 example using Fastify
+## Auth0 example using Fastify & Authorization Code Flow
 
 This application demonstrates using Auth0 [Authorization Code Flow with PKCE](https://auth0.com/docs/get-started/authentication-and-authorization-flow/authorization-code-flow-with-proof-key-for-code-exchange-pkce) in a [Fastify](https://www.fastify.io/) application. Once the user logs in using the Auth0 login form, the application will display their name:
 
